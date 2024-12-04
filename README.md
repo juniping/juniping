@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juniping
+- 👋 Hi, I’m JunSeok
 - 👀 I’m interested in JAVA, Spring Boot
 - 🌱 I’m currently learning JAVA, Spring Boot
 - 📫 How to reach me -> junseoklee.kr@gmail.com
