@@ -1,6 +1,5 @@
-- 👋 Hi, I’m JunSeok
-- 👀 I’m interested in JAVA, Spring Boot
-- 🌱 I’m currently learning JAVA, Spring Boot
+- 👋 Hi, I’m Junseok Lee
+- 👀 I’m interested in Java, Spring Boot, JPA, Spring Batch
 - 📫 How to reach me -> junseoklee.kr@gmail.com
 
 <!---
