@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Junseok Lee
-- 👀 I’m interested in Java, Spring Boot, JPA, Spring Batch
+- 👀 I’m interested in Java, Spring Boot, JPA
 - 📫 How to reach me -> junseoklee.kr@gmail.com
 
 <!---
